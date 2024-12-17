@@ -1,16 +1,17 @@
-## Hi there 👋
+<h2>Hi 👋 I'm Ankit Rozra</h2>
 
-<!--
-**Ankit-rozra/Ankit-rozra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Languages</h2>
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=ts,js)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Frameworks</h2>
+  
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,react,nextjs,redux,tailwindcss)](https://skillicons.dev)
+
+<h2>Databases</h2>
+  
+[![My Skills](https://skillicons.dev/icons?i=postgres,redis,mongo)](https://skillicons.dev)
+
+<h2>Tools</h2>
+ 
+[![My Skills](https://skillicons.dev/icons?i=git,docker,k8s,kafka,linux,githubactions)](https://skillicons.dev)
